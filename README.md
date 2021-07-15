@@ -1,8 +1,8 @@
 ### Hi, I'm Gledrian :wave:
 
-I am in my 1st year of software engineering course. 
+I am in my 2nd year of software engineering course. 
 
-I spent the past year learning the fundamentals of programming which helps me learn different programming languages at a fast rate. I mainly code in Pascal, but is 
+
 
 ### Spotify current playing :headphones::notes::
 [![Spotify](https://novatorem-indol-three.vercel.app/api/spotify)](https://open.spotify.com/user/gledrianregalagutierrez)
