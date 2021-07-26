@@ -1,10 +1,14 @@
-### Hi, I'm Gledrian :wave:
+# Hi, I'm Gledrian :wave:
 
 I am in my 2nd year of software engineering course. 
 
+## Experiences
+<div>
+<img src="https://user-images.githubusercontent.com/85834181/127054060-07f278a0-4861-4e73-9a18-c4e43a534331.png" width=32 height=32>
+<img src="https://user-images.githubusercontent.com/85834181/127055113-ff1375ca-17f0-4aab-a74c-bf77637155ef.png" width=32 height=32>
+</div>
 
-
-### Spotify current playing :headphones::notes::
+### Spotify currently playing :headphones::notes::
 [![Spotify](https://novatorem-indol-three.vercel.app/api/spotify)](https://open.spotify.com/user/gledrianregalagutierrez)
 ![fortnitepepedance](https://user-images.githubusercontent.com/68104451/114303700-c17c7900-9acf-11eb-8f5c-4b7c4673739c.gif)
 ![pepepls](https://user-images.githubusercontent.com/68104451/114303706-c5100000-9acf-11eb-8ee4-0e75d8932f3e.gif)
@@ -14,4 +18,7 @@ I am in my 2nd year of software engineering course.
   
   [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/gledrian-gutierrez-979a09211/)
   [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/wLbJpcl9)
+  [![instagram](https://img.shields.io/badge/Instagram-ig-red)](https://www.instagram.com/gledrian.dev/)
+  [![facebook](https://img.shields.io/badge/facebook-fb-blue)](https://www.facebook.com/gledrian.gutierrez)
+  [![twitter](https://img.shields.io/badge/twitter-tt-blue)](https://twitter.com/gledriandev)
 </p>
