@@ -1,6 +1,6 @@
 # Hi, I'm Gledrian :wave:
 
-I am in my 2nd year of software engineering course. 
+I am bad at everything I do.
 
 ## Experiences
 <div>
