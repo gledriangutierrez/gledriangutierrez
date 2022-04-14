@@ -1,12 +1,4 @@
-# Hi, I'm Gledrian :wave:
 
-I am bad at everything I do.
-
-## Experiences
-<div>
-<img src="https://user-images.githubusercontent.com/85834181/127054060-07f278a0-4861-4e73-9a18-c4e43a534331.png" width=32 height=32>
-<img src="https://user-images.githubusercontent.com/85834181/127055113-ff1375ca-17f0-4aab-a74c-bf77637155ef.png" width=32 height=32>
-</div>
 
 ### Spotify currently playing :headphones::notes::
 [![Spotify](https://novatorem-indol-three.vercel.app/api/spotify)](https://open.spotify.com/user/gledrianregalagutierrez)
