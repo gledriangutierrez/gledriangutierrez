@@ -1,11 +1,13 @@
 <table width = "100%">
   <tr width="100%">
     <td width="50%">
+  <br>
 
 [![Spotify](https://novatorem-indol-three.vercel.app/api/spotify)](https://open.spotify.com/user/gledrianregalagutierrez)
 
   </td>
   <td width="50%">
+  <br>
 
 ![fortnitepepedance](https://user-images.githubusercontent.com/68104451/114303700-c17c7900-9acf-11eb-8f5c-4b7c4673739c.gif)
 ![pepepls](https://user-images.githubusercontent.com/68104451/114303706-c5100000-9acf-11eb-8ee4-0e75d8932f3e.gif)
